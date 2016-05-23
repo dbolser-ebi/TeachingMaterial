@@ -82,5 +82,5 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 * [Data analysis for genomics](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401#.VA7RPWRdVA9)
 * [Courses from the Bioconductor website](http://www.bioconductor.org/help/course-materials/)
 
-## Aknowledgments
+## Acknowledgements
 This tutorial has been inspired on material developed by Ângela Gonçalves, Nicolas Delhomme, Simon Anders and Martin Morgan, who I would like to thank and acknowledge. Special thanks must go to Ângela Gonçalves and Mitra Barzine, with whom I have been teaching, and to Gabriella Rustici, for always finding a way to organise a new course.
